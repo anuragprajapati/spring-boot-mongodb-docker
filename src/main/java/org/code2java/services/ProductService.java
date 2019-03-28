@@ -1,9 +1,9 @@
-package guru.springframework.services;
-
-import guru.springframework.commands.ProductForm;
-import guru.springframework.domain.Product;
+package org.code2java.services;
 
 import java.util.List;
+
+import org.code2java.commands.ProductForm;
+import org.code2java.domain.Product;
 
 /**
  * Created by jt on 1/10/17.

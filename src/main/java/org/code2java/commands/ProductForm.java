@@ -1,4 +1,4 @@
-package guru.springframework.commands;
+package org.code2java.commands;
 
 
 import java.math.BigDecimal;

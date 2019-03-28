@@ -1,7 +1,7 @@
-package guru.springframework.converters;
+package org.code2java.converters;
 
-import guru.springframework.commands.ProductForm;
-import guru.springframework.domain.Product;
+import org.code2java.commands.ProductForm;
+import org.code2java.domain.Product;
 import org.springframework.core.convert.converter.Converter;
 import org.springframework.stereotype.Component;
 

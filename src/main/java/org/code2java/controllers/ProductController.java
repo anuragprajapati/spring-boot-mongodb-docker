@@ -1,9 +1,9 @@
-package guru.springframework.controllers;
+package org.code2java.controllers;
 
-import guru.springframework.commands.ProductForm;
-import guru.springframework.converters.ProductToProductForm;
-import guru.springframework.domain.Product;
-import guru.springframework.services.ProductService;
+import org.code2java.commands.ProductForm;
+import org.code2java.converters.ProductToProductForm;
+import org.code2java.domain.Product;
+import org.code2java.services.ProductService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
